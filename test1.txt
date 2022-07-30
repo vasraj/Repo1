@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C8AA-8222
+
+ Directory of C:\Users\stswa\OneDrive\Desktop\New folder
+
+30-07-2022  20:39    <DIR>          .
+30-07-2022  20:28    <DIR>          ..
+30-07-2022  20:39                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  442,873,356,288 bytes free
